@@ -1,0 +1,7 @@
+你的仓库名/
+├── index.html       # 主页
+├── products.html    # 产品页（可选）
+├── assets/
+│   └── images/      # 专门放产品图片（推荐）
+├── css/
+└── js/
